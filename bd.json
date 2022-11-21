@@ -1,0 +1,113 @@
+{
+    "Placas de video": [
+      {
+        "id": "1",
+        "marca": "MSI",
+        "modelo": "RTX 2060",
+        "memória": "6 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/357660/placa-de-video-msi-nvidia-geforce-rtx-2060-ventus-gp-oc-6gb-gddr6-ray-tracing-geforce-rtx-2060-ventus-gp-oc_1656354647_gg.jpg"
+    
+      },
+      {
+        "id": "2",
+        "marca": "jingsha",
+        "modelo": "RX 580",
+        "memória": "8 GB",
+        "imagem": "https://m.media-amazon.com/images/I/617uGofduYL._AC_SX522_.jpg",
+        "loja": "kabum"
+      },
+      {
+        "id": "3",
+        "marca": "sapphire",
+        "modelo": "RX 550",
+        "memória": "4 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/89279/89279_index_gg.jpg",
+        "loja": "kabum"
+    
+      },
+      {
+        "id": "4",
+        "marca": "Zotax",
+        "modelo": "GTX 1060",
+        "memória": "6 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210172_gg.jpg",
+        "loja" : "kabum"
+      }
+    ],
+    "SSD": [
+            {"id": "1",
+        "marca": "kingston",
+        "modelo": "A400",
+        "Capacidade": "240 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "350 Mb/s",
+        "leitura":"500 Mb/s"
+        },
+            {"id": "2",
+        "marca": "husky",
+        "modelo": "HGML000",
+        "Capacidade": "128 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/113888/ssd-husky-128gb-sata-3-500mb-s-2-5-hss-st-120_1596746858_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"570 Mb/s"
+        },
+            {"id": "3",
+        "marca": "husky",
+        "modelo": "HGML000",
+        "Capacidade": "128 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/113888/ssd-husky-128gb-sata-3-500mb-s-2-5-hss-st-120_1596746858_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"570 Mb/s"
+        },
+            {"id": "4",
+        "marca": "Crucial",
+        "modelo": "BX500",
+        "Capacidade": "500 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/378464/ssd-crucial-bx500-sata-500gb-3d-nand-leitura-540mb-s-e-gravacao-500mb-s-ct500bx500ssd1_1667495528_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"540 Mb/s"
+        }
+    ],
+    "memoria ram": [
+            {"id": "1",
+        "marca": "kingston",
+        "modelo": "A400",
+        "Capacidade": "240 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "350 Mb/s",
+        "leitura":"500 Mb/s"
+        },
+            {"id": "2",
+        "marca": "husky",
+        "modelo": "HGML000",
+        "Capacidade": "128 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/113888/ssd-husky-128gb-sata-3-500mb-s-2-5-hss-st-120_1596746858_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"570 Mb/s"
+        },
+        {"id": "3",
+        "marca": "husky",
+        "modelo": "HGML000",
+        "Capacidade": "128 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/113888/ssd-husky-128gb-sata-3-500mb-s-2-5-hss-st-120_1596746858_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"570 Mb/s"
+        },
+            {"id": "4",
+        "marca": "Crucial",
+        "modelo": "BX500",
+        "Capacidade": "500 GB",
+        "imagem": "https://images.kabum.com.br/produtos/fotos/378464/ssd-crucial-bx500-sata-500gb-3d-nand-leitura-540mb-s-e-gravacao-500mb-s-ct500bx500ssd1_1667495528_gg.jpg",
+        "loja" : "kabum",
+        "gravacao": "500 Mb/s",
+        "leitura":"540 Mb/s"
+        }
+    ]
+}

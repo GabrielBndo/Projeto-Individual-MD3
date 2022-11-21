@@ -1,0 +1,14 @@
+{
+  "name": "projeto-individual-md3",
+  "version": "1.0.0",
+  "description": "\"API MD3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Gabriel Cruz\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
