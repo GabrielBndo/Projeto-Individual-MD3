@@ -1,0 +1,119 @@
+{
+  "Placas de video": [
+    {
+      "id": "1",
+      "marca": "MSI",
+      "modelo": "RTX 2060",
+      "memória": "6 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/357660/placa-de-video-msi-nvidia-geforce-rtx-2060-ventus-gp-oc-6gb-gddr6-ray-tracing-geforce-rtx-2060-ventus-gp-oc_1656354647_gg.jpg"
+    },
+    {
+      "id": "2",
+      "marca": "jingsha",
+      "modelo": "RX 580",
+      "memória": "8 GB",
+      "imagem": "https://m.media-amazon.com/images/I/617uGofduYL._AC_SX522_.jpg",
+      "loja": "kabum"
+    },
+    {
+      "id": "3",
+      "marca": "sapphire",
+      "modelo": "RX 550",
+      "memória": "4 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/89279/89279_index_gg.jpg",
+      "loja": "kabum"
+    },
+    {
+      "id": "4",
+      "marca": "Zotax",
+      "modelo": "GTX 1060",
+      "memória": "6 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210172_gg.jpg",
+      "loja": "kabum"
+    }
+  ],
+  "SSD": [
+    {
+      "id": "1",
+      "marca": "kingston",
+      "modelo": "A400",
+      "Capacidade": "240 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_gg.jpg",
+      "loja": "kabum",
+      "gravacao": "350 Mb/s",
+      "leitura": "500 Mb/s"
+    },
+    {
+      "id": "2",
+      "marca": "husky",
+      "modelo": "HGML000",
+      "Capacidade": "128 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/113888/ssd-husky-128gb-sata-3-500mb-s-2-5-hss-st-120_1596746858_gg.jpg",
+      "loja": "kabum",
+      "gravacao": "500 Mb/s",
+      "leitura": "570 Mb/s"
+    },
+    {
+      "id": "3",
+      "marca": "Hikvision",
+      "modelo": "C100",
+      "Capacidade": "120 GB",
+      "imagem": "https://img.terabyteshop.com.br/produto/g/ssd-hikvision-c100-120gb-sata-iii-leitura-550mbs-e-gravacao-420mbs-hs-ssd-c100120g_96979.png",
+      "loja": "Terabyteshop",
+      "gravacao": "420 Mb/s",
+      "leitura": "550 Mb/s"
+    },
+    {
+      "id": "4",
+      "marca": "WD Green",
+      "modelo": "BX500",
+      "Capacidade": "1 TB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/311023/                                                                           ssd-wd-green-1-tb-sata-iii-leitura-545mb-s-gravacao-550mb-s-wds100t3g0a_1662123953_gg.jpg",
+      "loja": "kabum",
+      "gravacao": "550 Mb/s",
+      "leitura": "545 Mb/s"
+    }
+  ],
+  "memoria ram": [
+    {
+      "id": "1",
+      "marca": "kingston",
+      "modelo": "Fury Beast",
+      "Capacidade": "8 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_gg.jpg",
+      "loja": "kabum",
+      "velocidade": "3200 MHz",
+      "tipo": "DDR 4"
+    },
+    {
+      "id": "2",
+      "marca": "Husky",
+      "modelo": "HGMF000",
+      "Capacidade": "4 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/114221/memoria-husky-4gb-2666mhz-ddr4-cl19-preto-hmr-d4426_1597862480_gg.jpg",
+      "loja": "kabum",
+      "velocidade": "2666 MHz",
+      "tipo": "DDR 4"
+    },
+    {
+      "id": "3",
+      "marca": "COrsair",
+      "modelo": "vengeance",
+      "Capacidade": "16 GB",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16_1589918161_gg.jpg",
+      "loja": "kabum",
+      "velocidade": "2400MHz",
+      "tipo": "DDR 4"
+    },
+    {
+      "id": "4",
+      "marca": "hyper x",
+      "modelo": "Fury",
+      "Capacidade": "8 GB",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_877269-MLA32170094259_092019-O.webp",
+      "loja": "mercado livre",
+      "velocidade": "3200 MHz",
+      "tipo": "DDR 4"
+    }
+  ]
+}
